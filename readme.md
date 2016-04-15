@@ -2,7 +2,7 @@
 
 > A list of all the Unicode Range Names and their hex/decimal range numbers.
 
-This module simply returns the [unicode-range.json]() file. 
+This module simply returns the [unicode-range.json](unicode-range.json) file. 
 
 ## Install
 
