@@ -17,7 +17,19 @@ $ npm install --save unicode-range-json
 const unicodeRanges = require('unicode-range-json');
 
 unicodeRanges();
-//=> 'unicorns & rainbows'
+/*
+{
+  "category": "Control character",
+  "hexrange": ["0000", "001F"],
+  "range": [0, 31]
+},
+{
+  "category": "Basic Latin",
+  "hexrange": ["0020", "007F"],
+  "range": [32, 127]
+},
+...
+*/
 ```
 
 
@@ -25,7 +37,11 @@ unicodeRanges();
 
 ### unicodeRanges()
 
-Returns a JSON object with information about the Unicode Ranges.
+Returns a JSON object with following information about the Unicode Ranges:
+
+- `category` : `(String)` The range category name
+- `hexrange` : `(Array)` The hexadecimal number range 
+- `range` : `(Array)` The decimal number range
 
 
 ## Contribution
