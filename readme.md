@@ -49,6 +49,10 @@ Returns a JSON object with following information about the Unicode Ranges:
 Please open an issue or pull request of you discover any of the values or ranges to be incorrect. *Thanks!*
 
 
+## Related
+
+- [unicode-range](https://github.com/radiovisual/unicode-range) Get the category range name of any Unicode value. U+3071 ➝ Hiragana
+
 ## License
 
 MIT © [Michael Wuergler](http://numetriclabs.com)
