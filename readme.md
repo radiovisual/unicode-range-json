@@ -2,7 +2,8 @@
 
 > A list of all the Unicode Range Names and their hex/decimal range numbers.
 
-This module simply returns the [unicode-range.json](unicode-range.json) file. 
+This module simply returns the [unicode-range.json](https://github.com/radiovisual/unicode-range-json/blob/master/unicode-ranges.json) file. 
+
 
 ## Install
 
