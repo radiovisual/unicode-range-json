@@ -2,7 +2,7 @@
 
 > A list of all the Unicode Range Names and their hex/decimal range numbers.
 
-This module simply returns the [unicode-range.json](https://github.com/radiovisual/unicode-range-json/blob/master/unicode-ranges.json) file. 
+This module simply exposes the [unicode-range.json](https://github.com/radiovisual/unicode-range-json/blob/master/unicode-ranges.json) file.
 
 
 ## Install
@@ -17,7 +17,7 @@ $ npm install --save unicode-range-json
 ```js
 const unicodeRanges = require('unicode-range-json');
 
-unicodeRanges();
+console.log(unicodeRanges);
 /*
 {
   "category": "Control character",
@@ -36,12 +36,12 @@ unicodeRanges();
 
 ## API
 
-### unicodeRanges()
+### unicodeRanges
 
-Returns a JSON object with following information about the Unicode Ranges:
+A JSON object with following information about the Unicode Ranges:
 
 - `category` : `(String)` The range category name
-- `hexrange` : `(Array)` The hexadecimal number range 
+- `hexrange` : `(Array)` The hexadecimal number range
 - `range` : `(Array)` The decimal number range
 
 

@@ -1,13 +1,11 @@
 import test from 'ava';
-import fn from './';
+import ranges from './';
 
-test('returns an object', t => {
-	t.is(typeof fn(), 'object');
+test('is an array', t => {
+	t.true(Array.isArray(ranges));
 });
 
 test('all values have category, hexrange, range', t => {
-	var ranges = fn();
-
 	t.plan(ranges.length * 3);
 
 	ranges.forEach(range => {
@@ -18,8 +16,6 @@ test('all values have category, hexrange, range', t => {
 });
 
 test('all hexrange values have proper formatting', t => {
-	var ranges = fn();
-
 	t.plan(ranges.length * 5);
 
 	ranges.forEach(range => {
@@ -32,8 +28,6 @@ test('all hexrange values have proper formatting', t => {
 });
 
 test('all ranges values have proper formatting', t => {
-	var ranges = fn();
-
 	t.plan(ranges.length * 5);
 
 	ranges.forEach(range => {
@@ -44,4 +38,3 @@ test('all ranges values have proper formatting', t => {
 		t.true(range.range[1] === Math.abs(parseInt(range.range[1], 10)));
 	});
 });
-
