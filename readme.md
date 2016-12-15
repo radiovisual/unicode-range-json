@@ -20,7 +20,7 @@ const unicodeRanges = require('unicode-range-json');
 console.log(unicodeRanges);
 /*
 {
-  "category": "Control character",
+  "category": "Control Character",
   "hexrange": ["0000", "001F"],
   "range": [0, 31]
 },
