@@ -23,7 +23,7 @@ test('all hexrange values have proper formatting', t => {
 		t.is(typeof range.hexrange[0], 'string');
 		t.is(typeof range.hexrange[1], 'string');
 		t.true(range.hexrange[0].length >= 4 && range.hexrange[0].length <= 5);
-		t.true(range.hexrange[1].length >= 4 && range.hexrange[0].length <= 5);
+		t.true(range.hexrange[1].length >= 4 && range.hexrange[1].length <= 5);
 	});
 });
 
