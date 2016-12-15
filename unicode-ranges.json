@@ -2792,5 +2792,27 @@
       129280,
       129535
     ]
+  },
+  {
+  "category": "Supplemental Private Use Area-A",
+  "hexrange": [
+    "F0000",
+    "FFFFD"
+  ],
+  "range": [
+    983040,
+    1048573
+  ]
+  },
+  {
+    "category": "Supplemental Private Use Area-B",
+    "hexrange": [
+      "100000",
+      "10FFFD"
+    ],
+    "range": [
+      1048576,
+      1114109
+    ]
   }
 ]

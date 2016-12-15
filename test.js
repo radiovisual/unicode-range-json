@@ -22,8 +22,8 @@ test('all hexrange values have proper formatting', t => {
 		t.is(range.hexrange.length, 2);
 		t.is(typeof range.hexrange[0], 'string');
 		t.is(typeof range.hexrange[1], 'string');
-		t.true(range.hexrange[0].length >= 4 && range.hexrange[0].length <= 5);
-		t.true(range.hexrange[1].length >= 4 && range.hexrange[1].length <= 5);
+		t.true(range.hexrange[0].length >= 4 && range.hexrange[0].length <= 6);
+		t.true(range.hexrange[1].length >= 4 && range.hexrange[1].length <= 6);
 	});
 });
 
@@ -36,5 +36,14 @@ test('all ranges values have proper formatting', t => {
 		t.is(typeof range.range[1], 'number');
 		t.true(range.range[0] === Math.abs(parseInt(range.range[0], 10)));
 		t.true(range.range[1] === Math.abs(parseInt(range.range[1], 10)));
+	});
+});
+
+test('all hex values equal their corresponding decimal values', t => {
+	t.plan(ranges.length * 2);
+
+	ranges.forEach(range => {
+		t.is(range.range[0], parseInt(range.hexrange[0], 16));
+		t.is(range.range[1], parseInt(range.hexrange[1], 16));
 	});
 });
