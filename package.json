@@ -1,7 +1,7 @@
 {
   "name": "unicode-range-json",
-  "version": "0.0.3",
-  "description": "A list of all the Unicode Range Names and their hex/decimal range numbers.",
+  "version": "1.0.0",
+  "description": "A JSON list of all the Unicode Range Names and their hex/decimal range numbers.",
   "license": "MIT",
   "repository": "radiovisual/unicode-range-json",
   "author": {
