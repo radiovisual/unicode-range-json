@@ -220,6 +220,28 @@
     ]
   },
   {
+    "category": "Syriac Supplement",
+    "hexrange": [
+      "0860",
+      "086F"
+    ],
+    "range": [
+      2144,
+      2159
+    ]
+  },
+  {
+    "category": "Arabic Extended-B",
+    "hexrange": [
+      "0870",
+      "089F"
+    ],
+    "range": [
+      2160,
+      2207
+    ]
+  },
+  {
     "category": "Arabic Extended-A",
     "hexrange": [
       "08A0",
@@ -679,6 +701,28 @@
     "range": [
       7248,
       7295
+    ]
+  },
+  {
+    "category": "Cyrillic Extended-C",
+    "hexrange": [
+      "1C80",
+      "1C8F"
+    ],
+    "range": [
+      7296,
+      7311
+    ]
+  },
+  {
+    "category": "Georgian Extended",
+    "hexrange": [
+      "1C90",
+      "1CBF"
+    ],
+    "range": [
+      7312,
+      7359
     ]
   },
   {
@@ -1958,6 +2002,17 @@
     ]
   },
   {
+    "category": "Osage",
+    "hexrange": [
+      "104B0",
+      "104FF"
+    ],
+    "range": [
+      66736,
+      66815
+    ]
+  },
+  {
     "category": "Elbasan",
     "hexrange": [
       "10500",
@@ -1980,6 +2035,17 @@
     ]
   },
   {
+    "category": "Vithkuqi",
+    "hexrange": [
+      "10570",
+      "105BF"
+    ],
+    "range": [
+      66928,
+      67007
+    ]
+  },
+  {
     "category": "Linear A",
     "hexrange": [
       "10600",
@@ -1988,6 +2054,17 @@
     "range": [
       67072,
       67455
+    ]
+  },
+  {
+    "category": "Latin Extended-F",
+    "hexrange": [
+      "10780",
+      "107BF"
+    ],
+    "range": [
+      67456,
+      67519
     ]
   },
   {
@@ -2200,6 +2277,17 @@
     ]
   },
   {
+    "category": "Hanifi Rohingya",
+    "hexrange": [
+      "10D00",
+      "10D3F"
+    ],
+    "range": [
+      68864,
+      68927
+    ]
+  },
+  {
     "category": "Rumi Numeral Symbols",
     "hexrange": [
       "10E60",
@@ -2208,6 +2296,83 @@
     "range": [
       69216,
       69247
+    ]
+  },
+  {
+    "category": "Yezidi",
+    "hexrange": [
+      "10E80",
+      "10EBF"
+    ],
+    "range": [
+      69248,
+      69311
+    ]
+  },
+  {
+    "category": "Arabic Extended-C",
+    "hexrange": [
+      "10EC0",
+      "10EFF"
+    ],
+    "range": [
+      69312,
+      69375
+    ]
+  },
+  {
+    "category": "Old Sogdian",
+    "hexrange": [
+      "10F00",
+      "10F2F"
+    ],
+    "range": [
+      69376,
+      69423
+    ]
+  },
+  {
+    "category": "Sogdian",
+    "hexrange": [
+      "10F30",
+      "10F6F"
+    ],
+    "range": [
+      69424,
+      69487
+    ]
+  },
+  {
+    "category": "Old Uyghur",
+    "hexrange": [
+      "10F70",
+      "10FAF"
+    ],
+    "range": [
+      69488,
+      69551
+    ]
+  },
+  {
+    "category": "Chorasmian",
+    "hexrange": [
+      "10FB0",
+      "10FDF"
+    ],
+    "range": [
+      69552,
+      69599
+    ]
+  },
+  {
+    "category": "Elymaic",
+    "hexrange": [
+      "10FE0",
+      "10FFF"
+    ],
+    "range": [
+      69600,
+      69631
     ]
   },
   {
@@ -2332,6 +2497,17 @@
     ]
   },
   {
+    "category": "Newa",
+    "hexrange": [
+      "11400",
+      "1147F"
+    ],
+    "range": [
+      70656,
+      70783
+    ]
+  },
+  {
     "category": "Tirhuta",
     "hexrange": [
       "11480",
@@ -2365,6 +2541,17 @@
     ]
   },
   {
+    "category": "Mongolian Supplement",
+    "hexrange": [
+      "11660",
+      "1167F"
+    ],
+    "range": [
+      71264,
+      71295
+    ]
+  },
+  {
     "category": "Takri",
     "hexrange": [
       "11680",
@@ -2379,11 +2566,22 @@
     "category": "Ahom",
     "hexrange": [
       "11700",
-      "1173F"
+      "1174F"
     ],
     "range": [
       71424,
-      71487
+      71503
+    ]
+  },
+  {
+    "category": "Dogra",
+    "hexrange": [
+      "11800",
+      "1184F"
+    ],
+    "range": [
+      71680,
+      71759
     ]
   },
   {
@@ -2398,6 +2596,61 @@
     ]
   },
   {
+    "category": "Dives Akuru",
+    "hexrange": [
+      "11900",
+      "1195F"
+    ],
+    "range": [
+      71936,
+      72031
+    ]
+  },
+  {
+    "category": "Nandinagari",
+    "hexrange": [
+      "119A0",
+      "119FF"
+    ],
+    "range": [
+      72096,
+      72191
+    ]
+  },
+  {
+    "category": "Zanabazar Square",
+    "hexrange": [
+      "11A00",
+      "11A4F"
+    ],
+    "range": [
+      72192,
+      72271
+    ]
+  },
+  {
+    "category": "Soyombo",
+    "hexrange": [
+      "11A50",
+      "11AAF"
+    ],
+    "range": [
+      72272,
+      72367
+    ]
+  },
+  {
+    "category": "Unified Canadian Aboriginal Syllabics Extended-A",
+    "hexrange": [
+      "11AB0",
+      "11ABF"
+    ],
+    "range": [
+      72368,
+      72383
+    ]
+  },
+  {
     "category": "Pau Cin Hau",
     "hexrange": [
       "11AC0",
@@ -2406,6 +2659,105 @@
     "range": [
       72384,
       72447
+    ]
+  },
+  {
+    "category": "Devanagari Extended-A",
+    "hexrange": [
+      "11B00",
+      "11B5F"
+    ],
+    "range": [
+      72448,
+      72543
+    ]
+  },
+  {
+    "category": "Bhaiksuki",
+    "hexrange": [
+      "11C00",
+      "11C6F"
+    ],
+    "range": [
+      72704,
+      72815
+    ]
+  },
+  {
+    "category": "Marchen",
+    "hexrange": [
+      "11C70",
+      "11CBF"
+    ],
+    "range": [
+      72816,
+      72895
+    ]
+  },
+  {
+    "category": "Masaram Gondi",
+    "hexrange": [
+      "11D00",
+      "11D5F"
+    ],
+    "range": [
+      72960,
+      73055
+    ]
+  },
+  {
+    "category": "Gunjala Gondi",
+    "hexrange": [
+      "11D60",
+      "11DAF"
+    ],
+    "range": [
+      73056,
+      73135
+    ]
+  },
+  {
+    "category": "Makasar",
+    "hexrange": [
+      "11EE0",
+      "11EFF"
+    ],
+    "range": [
+      73440,
+      73471
+    ]
+  },
+  {
+    "category": "Kawi",
+    "hexrange": [
+      "11F00",
+      "11F5F"
+    ],
+    "range": [
+      73472,
+      73567
+    ]
+  },
+  {
+    "category": "Lisu Supplement",
+    "hexrange": [
+      "11FB0",
+      "11FBF"
+    ],
+    "range": [
+      73648,
+      73663
+    ]
+  },
+  {
+    "category": "Tamil Supplement",
+    "hexrange": [
+      "11FC0",
+      "11FFF"
+    ],
+    "range": [
+      73664,
+      73727
     ]
   },
   {
@@ -2442,6 +2794,17 @@
     ]
   },
   {
+    "category": "Cypro-Minoan",
+    "hexrange": [
+      "12F90",
+      "12FFF"
+    ],
+    "range": [
+      77712,
+      77823
+    ]
+  },
+  {
     "category": "Egyptian Hieroglyphs",
     "hexrange": [
       "13000",
@@ -2450,6 +2813,17 @@
     "range": [
       77824,
       78895
+    ]
+  },
+  {
+    "category": "Egyptian Hieroglyph Format Controls",
+    "hexrange": [
+      "13430",
+      "1345F"
+    ],
+    "range": [
+      78896,
+      78943
     ]
   },
   {
@@ -2486,6 +2860,17 @@
     ]
   },
   {
+    "category": "Tangsa",
+    "hexrange": [
+      "16A70",
+      "16ACF"
+    ],
+    "range": [
+      92784,
+      92879
+    ]
+  },
+  {
     "category": "Bassa Vah",
     "hexrange": [
       "16AD0",
@@ -2508,6 +2893,17 @@
     ]
   },
   {
+    "category": "Medefaidrin",
+    "hexrange": [
+      "16E40",
+      "16E9F"
+    ],
+    "range": [
+      93760,
+      93855
+    ]
+  },
+  {
     "category": "Miao",
     "hexrange": [
       "16F00",
@@ -2519,6 +2915,72 @@
     ]
   },
   {
+    "category": "Ideographic Symbols and Punctuation",
+    "hexrange": [
+      "16FE0",
+      "16FFF"
+    ],
+    "range": [
+      94176,
+      94207
+    ]
+  },
+  {
+    "category": "Tangut",
+    "hexrange": [
+      "17000",
+      "187FF"
+    ],
+    "range": [
+      94208,
+      100351
+    ]
+  },
+  {
+    "category": "Tangut Components",
+    "hexrange": [
+      "18800",
+      "18AFF"
+    ],
+    "range": [
+      100352,
+      101119
+    ]
+  },
+  {
+    "category": "Khitan Small Script",
+    "hexrange": [
+      "18B00",
+      "18CFF"
+    ],
+    "range": [
+      101120,
+      101631
+    ]
+  },
+  {
+    "category": "Tangut Supplement",
+    "hexrange": [
+      "18D00",
+      "18D7F"
+    ],
+    "range": [
+      101632,
+      101759
+    ]
+  },
+  {
+    "category": "Kana Extended-B",
+    "hexrange": [
+      "1AFF0",
+      "1AFFF"
+    ],
+    "range": [
+      110576,
+      110591
+    ]
+  },
+  {
     "category": "Kana Supplement",
     "hexrange": [
       "1B000",
@@ -2527,6 +2989,39 @@
     "range": [
       110592,
       110847
+    ]
+  },
+  {
+    "category": "Kana Extended-A",
+    "hexrange": [
+      "1B100",
+      "1B12F"
+    ],
+    "range": [
+      110848,
+      110895
+    ]
+  },
+  {
+    "category": "Small Kana Extension",
+    "hexrange": [
+      "1B130",
+      "1B16F"
+    ],
+    "range": [
+      110896,
+      110959
+    ]
+  },
+  {
+    "category": "Nushu",
+    "hexrange": [
+      "1B170",
+      "1B2FF"
+    ],
+    "range": [
+      110960,
+      111359
     ]
   },
   {
@@ -2549,6 +3044,17 @@
     "range": [
       113824,
       113839
+    ]
+  },
+  {
+    "category": "Znamenny Musical Notation",
+    "hexrange": [
+      "1CF00",
+      "1CFCF"
+    ],
+    "range": [
+      118528,
+      118735
     ]
   },
   {
@@ -2582,6 +3088,28 @@
     "range": [
       119296,
       119375
+    ]
+  },
+  {
+    "category": "Kaktovik Numerals",
+    "hexrange": [
+      "1D2C0",
+      "1D2DF"
+    ],
+    "range": [
+      119488,
+      119519
+    ]
+  },
+  {
+    "category": "Mayan Numerals",
+    "hexrange": [
+      "1D2E0",
+      "1D2FF"
+    ],
+    "range": [
+      119520,
+      119551
     ]
   },
   {
@@ -2629,6 +3157,94 @@
     ]
   },
   {
+    "category": "Latin Extended-G",
+    "hexrange": [
+      "1DF00",
+      "1DFFF"
+    ],
+    "range": [
+      122624,
+      122879
+    ]
+  },
+  {
+    "category": "Glagolitic Supplement",
+    "hexrange": [
+      "1E000",
+      "1E02F"
+    ],
+    "range": [
+      122880,
+      122927
+    ]
+  },
+  {
+    "category": "Cyrillic Extended-D",
+    "hexrange": [
+      "1E030",
+      "1E08F"
+    ],
+    "range": [
+      122928,
+      123023
+    ]
+  },
+  {
+    "category": "Nyiakeng Puachue Hmong",
+    "hexrange": [
+      "1E100",
+      "1E14F"
+    ],
+    "range": [
+      123136,
+      123215
+    ]
+  },
+  {
+    "category": "Toto",
+    "hexrange": [
+      "1E290",
+      "1E2BF"
+    ],
+    "range": [
+      123536,
+      123583
+    ]
+  },
+  {
+    "category": "Wancho",
+    "hexrange": [
+      "1E2C0",
+      "1E2FF"
+    ],
+    "range": [
+      123584,
+      123647
+    ]
+  },
+  {
+    "category": "Nag Mundari",
+    "hexrange": [
+      "1E4D0",
+      "1E4FF"
+    ],
+    "range": [
+      124112,
+      124159
+    ]
+  },
+  {
+    "category": "Ethiopic Extended-B",
+    "hexrange": [
+      "1E7E0",
+      "1E7FF"
+    ],
+    "range": [
+      124896,
+      124927
+    ]
+  },
+  {
     "category": "Mende Kikakui",
     "hexrange": [
       "1E800",
@@ -2637,6 +3253,39 @@
     "range": [
       124928,
       125151
+    ]
+  },
+  {
+    "category": "Adlam",
+    "hexrange": [
+      "1E900",
+      "1E95F"
+    ],
+    "range": [
+      125184,
+      125279
+    ]
+  },
+  {
+    "category": "Indic Siyaq Numbers",
+    "hexrange": [
+      "1EC70",
+      "1ECBF"
+    ],
+    "range": [
+      126064,
+      126143
+    ]
+  },
+  {
+    "category": "Ottoman Siyaq Numbers",
+    "hexrange": [
+      "1ED00",
+      "1ED4F"
+    ],
+    "range": [
+      126208,
+      126287
     ]
   },
   {
@@ -2794,25 +3443,179 @@
     ]
   },
   {
-  "category": "Supplemental Private Use Area-A",
-  "hexrange": [
-    "F0000",
-    "FFFFD"
-  ],
-  "range": [
-    983040,
-    1048573
-  ]
+    "category": "Chess Symbols",
+    "hexrange": [
+      "1FA00",
+      "1FA6F"
+    ],
+    "range": [
+      129536,
+      129647
+    ]
+  },
+  {
+    "category": "Symbols and Pictographs Extended-A",
+    "hexrange": [
+      "1FA70",
+      "1FAFF"
+    ],
+    "range": [
+      129648,
+      129791
+    ]
+  },
+  {
+    "category": "Symbols for Legacy Computing",
+    "hexrange": [
+      "1FB00",
+      "1FBFF"
+    ],
+    "range": [
+      129792,
+      130047
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension B",
+    "hexrange": [
+      "20000",
+      "2A6DF"
+    ],
+    "range": [
+      131072,
+      173791
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension C",
+    "hexrange": [
+      "2A700",
+      "2B73F"
+    ],
+    "range": [
+      173824,
+      177983
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension D",
+    "hexrange": [
+      "2B740",
+      "2B81F"
+    ],
+    "range": [
+      177984,
+      178207
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension E",
+    "hexrange": [
+      "2B820",
+      "2CEAF"
+    ],
+    "range": [
+      178208,
+      183983
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension F",
+    "hexrange": [
+      "2CEB0",
+      "2EBEF"
+    ],
+    "range": [
+      183984,
+      191471
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension I",
+    "hexrange": [
+      "2EBF0",
+      "2EE5F"
+    ],
+    "range": [
+      191472,
+      192095
+    ]
+  },
+  {
+    "category": "CJK Compatibility Ideographs Supplement",
+    "hexrange": [
+      "2F800",
+      "2FA1F"
+    ],
+    "range": [
+      194560,
+      195103
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension G",
+    "hexrange": [
+      "30000",
+      "3134F"
+    ],
+    "range": [
+      196608,
+      201551
+    ]
+  },
+  {
+    "category": "CJK Unified Ideographs Extension H",
+    "hexrange": [
+      "31350",
+      "323AF"
+    ],
+    "range": [
+      201552,
+      205743
+    ]
+  },
+  {
+    "category": "Tags",
+    "hexrange": [
+      "E0000",
+      "E007F"
+    ],
+    "range": [
+      917504,
+      917631
+    ]
+  },
+  {
+    "category": "Variation Selectors Supplement",
+    "hexrange": [
+      "E0100",
+      "E01EF"
+    ],
+    "range": [
+      917760,
+      917999
+    ]
+  },
+  {
+    "category": "Supplemental Private Use Area-A",
+    "hexrange": [
+      "F0000",
+      "FFFFF"
+    ],
+    "range": [
+      983040,
+      1048575
+    ]
   },
   {
     "category": "Supplemental Private Use Area-B",
     "hexrange": [
       "100000",
-      "10FFFD"
+      "10FFFF"
     ],
     "range": [
       1048576,
-      1114109
+      1114111
     ]
   }
 ]
