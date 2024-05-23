@@ -1,6 +1,6 @@
 {
   "name": "unicode-range-json",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A JSON list of all the Unicode Range Names and their hex/decimal range numbers.",
   "license": "MIT",
   "repository": "radiovisual/unicode-range-json",
