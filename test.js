@@ -15,6 +15,13 @@ test('all values have category, hexrange, range', t => {
 	});
 });
 
+test('there is a control character section', t => {
+	t.plan(1);
+
+	const controlCharacter = ranges.filter(block => block.category === 'Control Character');
+	t.is(controlCharacter.length, 1);
+});
+
 test('all hexrange values have proper formatting', t => {
 	t.plan(ranges.length * 5);
 

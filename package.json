@@ -6,14 +6,15 @@
   "repository": "radiovisual/unicode-range-json",
   "author": {
     "name": "Michael Wuergler",
-    "email": "wuergler@gmail.com",
-    "url": "numetriclabs.com"
+    "email": "wuergler@gmail.com"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=16"
   },
   "scripts": {
-    "test": "xo && ava"
+    "test": "xo && ava",
+    "lint:fix": "xo --fix",
+    "update-json": "node scripts/auto-update.js"
   },
   "files": [
     "index.js",
@@ -29,9 +30,10 @@
     "hexadecimal",
     "decimal"
   ],
-  "dependencies": {},
   "devDependencies": {
     "ava": "^0.12.0",
+    "unzipper": "^0.11.6",
+    "xml2js": "^0.6.2",
     "xo": "^0.12.1"
   }
 }

@@ -13,11 +13,11 @@
   {
     "category": "Basic Latin",
     "hexrange": [
-      "0020",
+      "0000",
       "007F"
     ],
     "range": [
-      32,
+      0,
       127
     ]
   },
@@ -3597,7 +3597,7 @@
     ]
   },
   {
-    "category": "Supplemental Private Use Area-A",
+    "category": "Supplementary Private Use Area-A",
     "hexrange": [
       "F0000",
       "FFFFF"
@@ -3608,7 +3608,7 @@
     ]
   },
   {
-    "category": "Supplemental Private Use Area-B",
+    "category": "Supplementary Private Use Area-B",
     "hexrange": [
       "100000",
       "10FFFF"
