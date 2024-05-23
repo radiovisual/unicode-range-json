@@ -1,4 +1,4 @@
-# unicode-range-json [![Build Status](https://travis-ci.org/radiovisual/unicode-range-json.svg?branch=master)](https://travis-ci.org/radiovisual/unicode-range-json)
+# unicode-range-json [![CI](https://github.com/radiovisual/unicode-range-json/actions/workflows/ci.yml/badge.svg)](https://github.com/radiovisual/unicode-range-json/actions/workflows/ci.yml)
 
 > A list of all the Unicode Range Names and their hex/decimal range numbers. Recent as of Unicode 15.1.0.
 
